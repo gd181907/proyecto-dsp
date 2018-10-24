@@ -1,0 +1,6 @@
+C:\Users\Samuel\Desktop\CICLO 02 ISAIAS´´+´+´´+\DSP\tres_capas\capadatos\bin\Debug\capadatos.dll
+C:\Users\Samuel\Desktop\CICLO 02 ISAIAS´´+´+´´+\DSP\tres_capas\capadatos\bin\Debug\capadatos.pdb
+C:\Users\Samuel\Desktop\CICLO 02 ISAIAS´´+´+´´+\DSP\tres_capas\capadatos\obj\Debug\capadatos.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\CICLO 02 ISAIAS´´+´+´´+\DSP\tres_capas\capadatos\obj\Debug\capadatos.dll
+C:\Users\Samuel\Desktop\CICLO 02 ISAIAS´´+´+´´+\DSP\tres_capas\capadatos\obj\Debug\capadatos.pdb
+C:\Users\Samuel\Desktop\CICLO 02 ISAIAS´´+´+´´+\DSP\tres_capas\capadatos\bin\Debug\capadatos.dll.config
